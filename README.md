@@ -38,7 +38,7 @@ Wait for response.txt to appear. Open and read its contents using standard file 
 # Important Notes
 users.txt is used internally by the microservice to store registered accounts. Only one request should be in progress at a time. Always wait for response.txt to be written before sending another request.txt.
 
-# UML Sequence Diagram
+# UML Sequence Diagram ** YOU MUST CLICK "RAW" ON GITHUB TO VIEW THIS DIAGRAM WITH CORRECT FORMATTING **
 Client Program Login Microservice Filesystem
 Client Program            Login Microservice              Filesystem
      |                           |                              |
